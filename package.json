@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "nodemailer": "^6.9.0",
+    "pdf-lib": "^1.17.1",
+    "date-fns": "^3.3.1"
+  }
+}
